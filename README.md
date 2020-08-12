@@ -36,9 +36,9 @@ What things you need to run compiled project
 * Compiled - Ready to run
 
 ## Bearer Authentication Key
-Bearer (apiKey): innostarkassignmentkey
-Authentication Username: innostark
-Authentication Password: 123456
+- Bearer (apiKey): innostarkassignmentkey
+- Authentication Username: innostark
+- Authentication Password: 123456
 
 
 
