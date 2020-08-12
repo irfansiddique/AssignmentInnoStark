@@ -39,6 +39,9 @@ What things you need to run compiled project
 - Bearer (apiKey): innostarkassignmentkey
 - Authentication Username: innostark
 - Authentication Password: 123456
+```
+To perform delete operation, user must be authorize
+```
 
 
 
